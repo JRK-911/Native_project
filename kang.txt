@@ -1,1 +1,6 @@
-asdfasdfadsfo
+git status
+git add *(커밋하고 싶은 파일명-*은 모든 파일)
+git status
+git commit -m "커밋한 내용"
+git push --> 내가 올릴 때
+git pull --> 내가 받을 때 ---> 보통 이걸 먼저 해야 충돌을 피할 수 있다.
